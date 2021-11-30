@@ -1,6 +1,6 @@
 # simon-game
 
-Simon is an game of memory skil. The website creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over. 
+Simon is an game of memory skill. The website creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over. 
 
 
 ## Tools Used:
