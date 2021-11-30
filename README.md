@@ -5,10 +5,13 @@ Simon is an game of memory skil. The website creates a series of tones and light
 
 ## Tools Used:
 
-<img src="./images/html.svg" width="70" height="70">
-<img src="./images/css.svg" width="70" height="70">
-<img src="./images/javaScript.svg" width="70" height="70">
-<img src="./images/jquery.svg" width="70" height="70">
+<p float = "left">
+  <img src="./images/html.svg" width="70" height="70">
+  <img src="./images/css.svg" width="70" height="70">
+  <img src="./images/javaScript.svg" width="70" height="70">
+  <img src="./images/jquery.svg" width="70" height="70">
+</p>  
 
 ## Live site:
 
+[The Simon Game](https://riturajcode.github.io/the-simon-game/)
