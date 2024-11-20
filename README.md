@@ -14,4 +14,4 @@ Simon is an game of memory skill. The website creates a series of tones and ligh
 
 ## Live site:
 
-[The Simon Game](https://riturajcode.github.io/the-simon-game/)
+[The Simon Game](https://gintoki027.github.io/the-simon-game/)
